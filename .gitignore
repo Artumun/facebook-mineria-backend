@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+fb_guest_state.json
+fb_sesion_activa.json
+modelo_ia_facebook/
